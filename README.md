@@ -23,10 +23,10 @@ Os dados são persistidos em memória, no objeto existente dentro do arquivo `ba
 ```javascript
 {
     banco: {
-        nome: "Cubos Bank",
+        nome: "Example Bank",
         numero: "123",
         agencia: "0001",
-        senha: "Cubos123Bank",
+        senha: "ExampleBank123",
     },
     contas: [
         // array de contas bancárias
