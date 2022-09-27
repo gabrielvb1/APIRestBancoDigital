@@ -1,7 +1,7 @@
 # APIRestBancoDigital
 Simulação de uma API Rest com CRUD em um Banco Digital.
 <br>
- RESTful API que permita:
+ RESTful API que permite:
 
 -   Criar conta bancária
 -   Listar contas bancárias
